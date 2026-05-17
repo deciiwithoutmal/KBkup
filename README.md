@@ -1,7 +1,7 @@
 # KBkup
 ## A simple yet useful backup tool for Linux.
 
-> **What does it do?** Takes files from any folder and moves them to a Backups folder on your HOME directory.
+> **What does it do?** Takes files from any directory, copies and compresses them to a Backups folder on your HOME directory.
 > **But why?** This is very useful for important files. In case you want to mess with any folder, or if anything breaks after changes, you can just use the backup to restore it.
 
 ### Installing KBkup:
